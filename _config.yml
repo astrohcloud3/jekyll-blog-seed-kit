@@ -1,0 +1,10 @@
+title: My Jekyll Blog
+description: Simple Jekyll blog seed
+baseurl: ""
+url: ""
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
